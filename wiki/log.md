@@ -3,7 +3,7 @@ title: Wiki Log
 type: analysis
 created: 2026-04-14
 updated: 2026-04-14
-sources: [2026-book-chapter-semantic-search-ateco.pdf, 2025-note-official-statistics-ai.pdf, 2026-conference-paper-patents-semantic-confidence.pdf, 2026-conference-paper-trustworthy-ai.pdf, 2026-slides-neural-networks-unveiled.pdf, 2025-slides-automatic-coding.pdf, 2026-slides-ai-reliability.pdf, 2026-slides-ai-webscraping.pdf, 2025-book-chapter-big-data-machine-learning.pdf, 2025-conference-paper-language-models.pdf, 2025-conference-paper-patents-occupational-exposure.pdf]
+sources: [2026-book-chapter-semantic-search-ateco.pdf, 2025-note-official-statistics-ai.pdf, 2026-conference-paper-patents-semantic-confidence.pdf, 2026-conference-paper-trustworthy-ai.pdf, 2026-slides-neural-networks-unveiled.pdf, 2025-slides-automatic-coding.pdf, 2026-slides-ai-reliability.pdf, 2026-slides-ai-webscraping.pdf, 2025-book-chapter-big-data-machine-learning.pdf, 2025-conference-paper-language-models.pdf, 2025-conference-paper-patents-occupational-exposure.pdf, 2026-conference-paper-prodcom.pdf]
 tags: [log]
 status: draft
 ---
@@ -19,3 +19,9 @@ Pages created: 3 source pages, 2 project pages.
 Pages updated: `wiki/index.md`, `wiki/overview.md`, `wiki/glossary.md`, `wiki/log.md`, `wiki/topics/ai-in-official-statistics.md`, `wiki/topics/semantic-integration-of-textual-data.md`, `wiki/projects/patent-to-sector-mapping.md`, `wiki/concepts/conformal-prediction-for-official-statistics.md`.
 Key additions: broader Istat big-data/ML modernization narrative; earlier grounded evidence for conformal-prediction-based coding; new occupational-exposure branch in the patents line.
 Open issues: the new big-data chapter mentions several subprojects that could justify dedicated pages later, but this pass keeps the structure reviewable and avoids speculative project sprawl.
+
+## [2026-04-14] ingest | added PRODCOM paper
+Pages created: 1 source page, 1 project page.
+Pages updated: `wiki/index.md`, `wiki/overview.md`, `wiki/glossary.md`, `wiki/log.md`, `wiki/topics/ai-in-official-statistics.md`, `wiki/topics/semantic-integration-of-textual-data.md`, `wiki/projects/enterprise-website-analysis.md`.
+Key additions: first strongly grounded PRODCOM use case; clearer staged workflow for company-website-based classification; stronger link between web intelligence and survey support.
+Open issues: the current wiki now covers ATECO and PRODCOM as parallel classification use cases, but a dedicated comparison page could make their similarities and differences more reusable for paper writing.

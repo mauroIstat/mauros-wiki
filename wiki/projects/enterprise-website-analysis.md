@@ -3,7 +3,7 @@ title: Enterprise Website Analysis
 type: project
 created: 2026-04-14
 updated: 2026-04-14
-sources: [2026-slides-ai-webscraping.pdf, 2025-slides-automatic-coding.pdf]
+sources: [2026-slides-ai-webscraping.pdf, 2025-slides-automatic-coding.pdf, 2026-conference-paper-prodcom.pdf]
 tags: [web-scraping, enterprise-websites, prodcom, digitalization, retrieval]
 status: draft
 ---
@@ -15,9 +15,12 @@ Enterprise website analysis appears as a long-running line of work where web scr
 - Enterprise websites are used to detect products, services, e-commerce behavior, and job-vacancy signals.
 - The workflow includes website identification, navigation, extraction, and semantic matching to statistical categories.
 - The stated statistical goal is not generic crawling; it is production of usable indicators and classifications.
+- The new PRODCOM paper grounds this line more strongly by showing a modular pipeline for product coding, questionnaire pre-filling, and validation support.
 
 ## Related pages
 
+- [[sources/papers/from-company-websites-to-official-product-codes]]
+- [[projects/prodcom-classification]]
 - [[sources/workshop/semantic-integration-of-textual-data-challenges-and-opportunities]]
 - [[topics/semantic-integration-of-textual-data]]
 - [[topics/trustworthy-ai-and-governance]]

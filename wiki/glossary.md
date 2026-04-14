@@ -3,7 +3,7 @@ title: Glossary
 type: analysis
 created: 2026-04-14
 updated: 2026-04-14
-sources: [2026-book-chapter-semantic-search-ateco.pdf, 2025-note-official-statistics-ai.pdf, 2026-conference-paper-patents-semantic-confidence.pdf, 2026-conference-paper-trustworthy-ai.pdf, 2026-slides-neural-networks-unveiled.pdf, 2025-slides-automatic-coding.pdf, 2026-slides-ai-reliability.pdf, 2026-slides-ai-webscraping.pdf, 2025-book-chapter-big-data-machine-learning.pdf, 2025-conference-paper-language-models.pdf, 2025-conference-paper-patents-occupational-exposure.pdf]
+sources: [2026-book-chapter-semantic-search-ateco.pdf, 2025-note-official-statistics-ai.pdf, 2026-conference-paper-patents-semantic-confidence.pdf, 2026-conference-paper-trustworthy-ai.pdf, 2026-slides-neural-networks-unveiled.pdf, 2025-slides-automatic-coding.pdf, 2026-slides-ai-reliability.pdf, 2026-slides-ai-webscraping.pdf, 2025-book-chapter-big-data-machine-learning.pdf, 2025-conference-paper-language-models.pdf, 2025-conference-paper-patents-occupational-exposure.pdf, 2026-conference-paper-prodcom.pdf]
 tags: [glossary, terminology]
 status: draft
 ---
@@ -39,6 +39,10 @@ International Standard Classification of Occupations, used in the corpus as the 
 ### Prediction sets
 
 Reliability device mentioned in workshop material as a way to move beyond single-label outputs.
+
+### PRODCOM
+
+European industrial production survey and its associated official product codes. In the corpus, PRODCOM appears as a target classification for web-assisted product coding, questionnaire pre-filling, and coding validation.
 
 ### Public trust
 

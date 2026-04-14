@@ -3,7 +3,7 @@ title: AI in Official Statistics
 type: topic
 created: 2026-04-14
 updated: 2026-04-14
-sources: [2025-note-official-statistics-ai.pdf, 2026-conference-paper-trustworthy-ai.pdf, 2025-slides-automatic-coding.pdf, 2026-slides-ai-reliability.pdf, 2026-slides-ai-webscraping.pdf, 2026-book-chapter-semantic-search-ateco.pdf, 2025-book-chapter-big-data-machine-learning.pdf, 2025-conference-paper-language-models.pdf]
+sources: [2025-note-official-statistics-ai.pdf, 2026-conference-paper-trustworthy-ai.pdf, 2025-slides-automatic-coding.pdf, 2026-slides-ai-reliability.pdf, 2026-slides-ai-webscraping.pdf, 2026-book-chapter-semantic-search-ateco.pdf, 2025-book-chapter-big-data-machine-learning.pdf, 2025-conference-paper-language-models.pdf, 2026-conference-paper-prodcom.pdf]
 tags: [official-statistics, ai, modernization, dissemination, production]
 status: draft
 ---
@@ -22,7 +22,7 @@ Across the corpus, AI in official statistics is presented as both an opportunity
 
 - The note on IstatData stresses dissemination and user accessibility.
 - The trustworthy AI paper adds a governance and validation frame.
-- The chapter and workshop decks provide concrete operational use cases such as ATECO coding, semantic search, and web intelligence.
+- The chapter and workshop decks provide concrete operational use cases such as ATECO coding, semantic search, web intelligence, and PRODCOM-related web classification.
 - The 2025 big-data chapter broadens the institutional picture beyond NLP, while the 2025 language-model paper gives an earlier methodological account of uncertainty-aware coding.
 
 ## Tensions preserved in the corpus
@@ -37,4 +37,5 @@ Across the corpus, AI in official statistics is presented as both an opportunity
 - [[topics/trustworthy-ai-and-governance]]
 - [[projects/istatdata-ai-dissemination]]
 - [[projects/ateco-automatic-coding]]
+- [[projects/prodcom-classification]]
 - [[projects/big-data-and-machine-learning-at-istat]]

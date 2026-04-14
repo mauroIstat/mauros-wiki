@@ -3,7 +3,7 @@ title: Corpus Overview
 type: analysis
 created: 2026-04-14
 updated: 2026-04-14
-sources: [2026-book-chapter-semantic-search-ateco.pdf, 2025-note-official-statistics-ai.pdf, 2026-conference-paper-patents-semantic-confidence.pdf, 2026-conference-paper-trustworthy-ai.pdf, 2026-slides-neural-networks-unveiled.pdf, 2025-slides-automatic-coding.pdf, 2026-slides-ai-reliability.pdf, 2026-slides-ai-webscraping.pdf, 2025-book-chapter-big-data-machine-learning.pdf, 2025-conference-paper-language-models.pdf, 2025-conference-paper-patents-occupational-exposure.pdf]
+sources: [2026-book-chapter-semantic-search-ateco.pdf, 2025-note-official-statistics-ai.pdf, 2026-conference-paper-patents-semantic-confidence.pdf, 2026-conference-paper-trustworthy-ai.pdf, 2026-slides-neural-networks-unveiled.pdf, 2025-slides-automatic-coding.pdf, 2026-slides-ai-reliability.pdf, 2026-slides-ai-webscraping.pdf, 2025-book-chapter-big-data-machine-learning.pdf, 2025-conference-paper-language-models.pdf, 2025-conference-paper-patents-occupational-exposure.pdf, 2026-conference-paper-prodcom.pdf]
 tags: [overview, corpus, synthesis]
 status: draft
 ---
@@ -22,6 +22,7 @@ The current corpus is organized around AI methods for official statistics, with 
 ## Major projects/use cases
 
 - ATECO automatic coding from free-text descriptions
+- PRODCOM classification from company websites for survey support
 - big data and machine learning modernization at Istat
 - semantic search and AI-enabled access to official statistics through IstatData
 - occupational exposure to AI from patent text
