@@ -1,56 +1,21 @@
----
-title: Corpus Overview
-type: analysis
-created: 2026-04-14
-updated: 2026-04-14
-sources: [2026-book-chapter-semantic-search-ateco.pdf, 2025-note-official-statistics-ai.pdf, 2026-conference-paper-patents-semantic-confidence.pdf, 2026-conference-paper-trustworthy-ai.pdf, 2026-slides-neural-networks-unveiled.pdf, 2025-slides-automatic-coding.pdf, 2026-slides-ai-reliability.pdf, 2026-slides-ai-webscraping.pdf, 2025-book-chapter-big-data-machine-learning.pdf, 2025-conference-paper-language-models.pdf, 2025-conference-paper-patents-occupational-exposure.pdf, 2026-conference-paper-prodcom.pdf]
-tags: [overview, corpus, synthesis]
-status: draft
----
+# Overview
 
-The current corpus is organized around AI methods for official statistics, with a strong concentration on semantic retrieval for text integration, but it now also includes a broader institutional modernization layer covering big data, machine learning, and production-oriented innovation at Istat.
+The corpus is organized around one central problem: how to integrate modern AI methods into Official Statistics without weakening the institutional commitments that make Official Statistics credible. Across papers, chapters, notes, and slides, AI is treated less as a generic technological trend and more as a methodological opportunity that must remain compatible with quality, transparency, privacy, reproducibility, and public trust.
 
-## Major themes
+The dominant application area is semantic integration of textual data. Several documents focus on turning unstructured text into structured statistical information through embedding-based retrieval, semantic search, and uncertainty-aware automatic coding. The recurring classification targets are ATECO/NACE, ISCO, and PRODCOM. The recurring input sources are user-entered activity descriptions, company websites, patent abstracts, and metadata in dissemination platforms.
 
-- AI for official statistics is framed as both modernization and methodological responsibility.
-- Semantic integration of textual data is the strongest technical through-line across papers, chapters, and workshops.
-- Reliability, confidence, and uncertainty are recurring concerns whenever semantic retrieval is proposed for operational use.
-- Governance, transparency, privacy, and public trust appear most clearly in the institutional note and the trustworthy AI paper.
-- A wider big-data and machine-learning agenda is now visible through projects on remote sensing, AIS data, web intelligence, and quality-aware production pipelines.
-- Teaching material focuses on representation learning, embeddings, context, and intuitive explanation.
+The research identity that emerges is strongly applied and institutional. The work is not framed as frontier AI for its own sake. It is framed as methodological modernization at Istat: using machine learning, language models, and retrieval systems to reduce burden, improve accessibility, expand usable data sources, and support statistical production, while keeping validation and governance central.
 
-## Major projects/use cases
+Two complementary strands run through the corpus:
 
-- ATECO automatic coding from free-text descriptions
-- PRODCOM classification from company websites for survey support
-- big data and machine learning modernization at Istat
-- semantic search and AI-enabled access to official statistics through IstatData
-- occupational exposure to AI from patent text
-- patent-to-sector mapping with semantic confidence
-- enterprise website analysis and web-derived statistical indicators
+- Production-oriented AI: automatic coding, product classification, extraction from web data, patent-to-occupation or patent-to-sector mapping, and AI-assisted processing of heterogeneous sources.
+- Dissemination-oriented AI: semantic search, natural-language access to statistical content, AI-supported reporting, and user-centred interfaces for IstatData and similar systems.
 
-## Recurring distinctions
+The most stable conceptual tension is innovation versus trust. This is not presented as a rhetorical contrast but as an operational requirement: AI systems are useful only if they can be validated, monitored, explained sufficiently for institutional use, and embedded within governance structures that preserve statistical quality and confidentiality.
 
-- deterministic rule-based coding vs semantic retrieval
-- technical performance vs statistical validity
-- innovation potential vs methodological safeguards
-- scientific tone vs institutional tone vs teaching tone
+Primary sources for this page:
 
-## Dominant corpus shape
-
-The corpus does not look like a generic AI collection. It is anchored in official-statistics workflows, taxonomies, and institutional requirements. Even when methods are modern, the sources repeatedly return to classifications, quality frameworks, and traceable decision support.
-
-Chronologically, the new 2025 papers also clarify that conformal-prediction-based uncertainty handling and patent-based AI-exposure analysis were already active before the 2026 sources.
-
-## Areas still thin
-
-- Short bios or self-presentation material are not yet present in the available corpus.
-- Some web and dissemination narratives are still more slide-based than paper-based.
-- The relation between semantic confidence, conformal prediction, and exposure-indicator construction is clearer than before but still not unified in a single source.
-
-## Related pages
-
-- [[index]]
-- [[glossary]]
-- [[topics/semantic-integration-of-textual-data]]
-- [[topics/trustworthy-ai-and-governance]]
+- [2026-conference-paper-trustworthy-ai.md](/home/mauro/projects/mauros-wiki/sources_md/papers/2026-conference-paper-trustworthy-ai.md)
+- [2025-note-official-statistics-ai.md](/home/mauro/projects/mauros-wiki/sources_md/notes/2025-note-official-statistics-ai.md)
+- [2026-book-chapter-semantic-search-ateco.md](/home/mauro/projects/mauros-wiki/sources_md/chapters/2026-book-chapter-semantic-search-ateco.md)
+- [2025-book-chapter-big-data-machine-learning.md](/home/mauro/projects/mauros-wiki/sources_md/chapters/2025-book-chapter-big-data-machine-learning.md)
