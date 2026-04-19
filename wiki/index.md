@@ -14,13 +14,19 @@ Use it this way:
 Best corpus anchors for future paper drafting:
 
 - Trustworthy AI and institutional framing:
-  [2026-conference-paper-trustworthy-ai.md](/home/mauro/projects/mauros-wiki/sources_md/papers/2026-conference-paper-trustworthy-ai.md)
+  [2026-conference-paper-trustworthy-ai.md](/home/mauro/projects/mauros-wiki/sources_md/papers/2026-conference-paper-trustworthy-ai.md),
+  [2026-conference-paper-ai-governance-framework.md](/home/mauro/projects/mauros-wiki/sources_md/papers/2026-conference-paper-ai-governance-framework.md),
   and
   [2025-note-official-statistics-ai.md](/home/mauro/projects/mauros-wiki/sources_md/notes/2025-note-official-statistics-ai.md)
 - Semantic search and uncertainty-aware automatic coding:
   [2026-book-chapter-semantic-search-ateco.md](/home/mauro/projects/mauros-wiki/sources_md/chapters/2026-book-chapter-semantic-search-ateco.md)
   and
   [2025-conference-paper-language-models.md](/home/mauro/projects/mauros-wiki/sources_md/papers/2025-conference-paper-language-models.md)
+- Occupation classification and profession-related context:
+  [cp2021.md](/home/mauro/projects/mauros-wiki/sources_md/professioni/cp2021.md),
+  [focus-classificazione-professioni-2021.md](/home/mauro/projects/mauros-wiki/sources_md/professioni/focus-classificazione-professioni-2021.md),
+  and
+  [questionario-fol-2026.md](/home/mauro/projects/mauros-wiki/sources_md/professioni/questionario-fol-2026.md)
 - Applied non-traditional data projects:
   [2026-conference-paper-prodcom.md](/home/mauro/projects/mauros-wiki/sources_md/papers/2026-conference-paper-prodcom.md),
   [2025-conference-paper-patents-occupational-exposure.md](/home/mauro/projects/mauros-wiki/sources_md/papers/2025-conference-paper-patents-occupational-exposure.md),
@@ -30,6 +36,7 @@ Best corpus anchors for future paper drafting:
 Current corpus coverage:
 
 - Chapters: big data and machine learning at Istat; semantic search for ATECO coding.
-- Papers: LLMs for automated coding; patents and AI exposure; semantic confidence; PRODCOM classification; trustworthy AI.
+- Papers: LLMs for automated coding; patents and AI exposure; semantic confidence; PRODCOM classification; trustworthy AI; AI governance for automatic coding.
 - Notes and workshop material: AI in official statistics, reliability, web scraping, and semantic integration.
 - Teaching material: explanatory slides on neural networks, representations, and transformers.
+- Profession-related context: FOL questionnaire, CP2021 classification structure, and background material on the 2021 classification release.

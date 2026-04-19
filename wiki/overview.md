@@ -2,9 +2,9 @@
 
 The corpus is organized around one central problem: how to integrate modern AI methods into Official Statistics without weakening the institutional commitments that make Official Statistics credible. Across papers, chapters, notes, and slides, AI is treated less as a generic technological trend and more as a methodological opportunity that must remain compatible with quality, transparency, privacy, reproducibility, and public trust.
 
-The dominant application area is semantic integration of textual data. Several documents focus on turning unstructured text into structured statistical information through embedding-based retrieval, semantic search, and uncertainty-aware automatic coding. The recurring classification targets are ATECO/NACE, ISCO, and PRODCOM. The recurring input sources are user-entered activity descriptions, company websites, patent abstracts, and metadata in dissemination platforms.
+The dominant application area is semantic integration of textual data. Several documents focus on turning unstructured text into structured statistical information through embedding-based retrieval, semantic search, and uncertainty-aware automatic coding. The recurring classification targets are ATECO/NACE, ISCO, profession taxonomies such as CP2021, and PRODCOM. The recurring input sources are user-entered activity descriptions, company websites, patent abstracts, survey-related material, and metadata in dissemination platforms.
 
-The research identity that emerges is strongly applied and institutional. The work is not framed as frontier AI for its own sake. It is framed as methodological modernization at Istat: using machine learning, language models, and retrieval systems to reduce burden, improve accessibility, expand usable data sources, and support statistical production, while keeping validation and governance central.
+The research identity that emerges is strongly applied and institutional. The work is not framed as frontier AI for its own sake. It is framed as methodological modernization at Istat: using machine learning, language models, retrieval systems, and governance frameworks to reduce burden, improve accessibility, expand usable data sources, and support statistical production, while keeping validation and institutional control central.
 
 Two complementary strands run through the corpus:
 

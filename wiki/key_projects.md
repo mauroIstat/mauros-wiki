@@ -10,12 +10,35 @@ Key sources:
 - [2025-conference-paper-language-models.md](/home/mauro/projects/mauros-wiki/sources_md/papers/2025-conference-paper-language-models.md)
 - [2025-slides-automatic-coding.md](/home/mauro/projects/mauros-wiki/sources_md/workshop/2025-slides-automatic-coding.md)
 
+## Profession classification and semantic retrieval
+
+This emerging project extends the same general logic of semantic search to the domain of professions. The relevant context is more explicitly tied to Official Statistics survey infrastructure: the FOL questionnaire provides the survey setting, while CP2021 provides the target classification structure. The likely writing value of this cluster is to connect occupation coding, profession descriptions, and hierarchical classification levels within a clearly institutional Istat frame.
+
+At this stage, the available material is mainly contextual rather than methodological. It is enough to ground the domain, the classification structure, and the institutional setting before adding experimental results in the paper workspace.
+
+Key sources:
+
+- [cp2021.md](/home/mauro/projects/mauros-wiki/sources_md/professioni/cp2021.md)
+- [focus-classificazione-professioni-2021.md](/home/mauro/projects/mauros-wiki/sources_md/professioni/focus-classificazione-professioni-2021.md)
+- [questionario-fol-2026.md](/home/mauro/projects/mauros-wiki/sources_md/professioni/questionario-fol-2026.md)
+
 ## Trustworthy AI in Official Statistics
 
 This strand is broader than a single model. It frames AI adoption as an institutional programme involving validation protocols, quality-framework adaptation, privacy protection, governance, infrastructure, and capacity building. It provides the strongest anchor for high-level framing and discussion sections.
 
 Key sources:
 
+- [2026-conference-paper-trustworthy-ai.md](/home/mauro/projects/mauros-wiki/sources_md/papers/2026-conference-paper-trustworthy-ai.md)
+- [2026-conference-paper-ai-governance-framework.md](/home/mauro/projects/mauros-wiki/sources_md/papers/2026-conference-paper-ai-governance-framework.md)
+- [2025-note-official-statistics-ai.md](/home/mauro/projects/mauros-wiki/sources_md/notes/2025-note-official-statistics-ai.md)
+
+## AI governance for automatic coding
+
+This paper connects a production-oriented methodological theme with an explicitly institutional governance perspective. Its distinctive contribution within the corpus is to show that automatic coding is not only a modelling task, but also a governance problem involving validation procedures, responsibilities, traceability, and operational safeguards. It is particularly useful when a draft needs to connect semantic-search applications with broader organizational arguments about responsible AI adoption at Istat.
+
+Key sources:
+
+- [2026-conference-paper-ai-governance-framework.md](/home/mauro/projects/mauros-wiki/sources_md/papers/2026-conference-paper-ai-governance-framework.md)
 - [2026-conference-paper-trustworthy-ai.md](/home/mauro/projects/mauros-wiki/sources_md/papers/2026-conference-paper-trustworthy-ai.md)
 - [2025-note-official-statistics-ai.md](/home/mauro/projects/mauros-wiki/sources_md/notes/2025-note-official-statistics-ai.md)
 

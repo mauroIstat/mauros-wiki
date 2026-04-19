@@ -9,7 +9,7 @@ A common introduction pattern is:
 3. Identify a concrete bottleneck involving text, classification, or access to information.
 4. Present the proposed method as a practical way to modernize statistical production or dissemination under quality constraints.
 
-This framing appears in the trustworthy-AI paper, the semantic-search chapter, the AI-in-Official-Statistics note, and the automated-coding paper.
+This framing appears in the trustworthy-AI paper, the AI-governance automatic-coding paper, the semantic-search chapter, the AI-in-Official-Statistics note, and the automated-coding paper.
 
 ## Default framing for methods
 
@@ -49,6 +49,7 @@ Limitations are typically framed in terms of validation, robustness, interpretab
 Primary sources for this page:
 
 - [2026-conference-paper-trustworthy-ai.md](/home/mauro/projects/mauros-wiki/sources_md/papers/2026-conference-paper-trustworthy-ai.md)
+- [2026-conference-paper-ai-governance-framework.md](/home/mauro/projects/mauros-wiki/sources_md/papers/2026-conference-paper-ai-governance-framework.md)
 - [2026-book-chapter-semantic-search-ateco.md](/home/mauro/projects/mauros-wiki/sources_md/chapters/2026-book-chapter-semantic-search-ateco.md)
 - [2025-conference-paper-language-models.md](/home/mauro/projects/mauros-wiki/sources_md/papers/2025-conference-paper-language-models.md)
 - [2026-conference-paper-prodcom.md](/home/mauro/projects/mauros-wiki/sources_md/papers/2026-conference-paper-prodcom.md)

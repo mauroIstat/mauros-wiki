@@ -16,6 +16,14 @@ A core methodological term. In the corpus it usually means embedding-based retri
 
 Assignment of official statistical codes to free-text descriptions. Most often discussed for ATECO, NACE, ISCO, and PRODCOM.
 
+## CP2021
+
+The 2021 Italian classification of professions. In this workspace it matters as a hierarchical target structure for profession-related tasks and as institutional context for any paper on semantic retrieval in the professions domain.
+
+## FOL / Labour Force Survey context
+
+Useful as survey background when profession information is discussed in an Official Statistics setting. Its role in the workspace is not to define the method, but to anchor profession-related tasks in a concrete Istat data-collection environment.
+
 ## Embeddings / sentence embeddings
 
 Dense vector representations used to encode semantic meaning and support retrieval, similarity ranking, or downstream classification.

@@ -6,7 +6,7 @@ The corpus repeatedly argues that National Statistical Institutes face rising ex
 
 ## 2. Text is a strategic interface problem
 
-Many recurring use cases start from the same difficulty: users, firms, patents, or web pages express meaning in messy natural language, while statistical systems require structured codes, categories, or retrievable metadata. This makes semantic integration of text a recurring methodological core.
+Many recurring use cases start from the same difficulty: users, firms, workers, patents, or web pages express meaning in messy natural language, while statistical systems require structured codes, categories, or retrievable metadata. This makes semantic integration of text a recurring methodological core.
 
 ## 3. Semantic search is preferred over brittle rule systems when classifications are complex
 
