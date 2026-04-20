@@ -24,6 +24,14 @@ The 2021 Italian classification of professions. In this workspace it matters as 
 
 Useful as survey background when profession information is discussed in an Official Statistics setting. Its role in the workspace is not to define the method, but to anchor profession-related tasks in a concrete Istat data-collection environment.
 
+## Navigatore delle professioni
+
+A legacy Istat tool for exploring and searching the profession classification. In the current workspace it is important both as institutional baseline and as evidence that profession coding already combines hierarchy, profession labels, descriptive text, and search support.
+
+## Profession coding
+
+In the profession-related sources, coding is explicitly framed as interpretation of the work actually performed, not mere normalization of a job title. This distinction is especially important for queries containing generic titles such as `impiegato`, `operaio`, or `imprenditore`.
+
 ## Embeddings / sentence embeddings
 
 Dense vector representations used to encode semantic meaning and support retrieval, similarity ranking, or downstream classification.

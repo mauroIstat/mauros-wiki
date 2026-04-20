@@ -8,6 +8,8 @@ The corpus repeatedly argues that National Statistical Institutes face rising ex
 
 Many recurring use cases start from the same difficulty: users, firms, workers, patents, or web pages express meaning in messy natural language, while statistical systems require structured codes, categories, or retrievable metadata. This makes semantic integration of text a recurring methodological core.
 
+In the profession domain, the corpus now makes this point more sharply: profession titles alone can be generic, ambiguous, or misleading, so useful coding depends on recovering the meaning of the activities actually performed rather than matching only the declared label.
+
 ## 3. Semantic search is preferred over brittle rule systems when classifications are complex
 
 The corpus often contrasts deterministic or string-matching systems with embedding-based retrieval. Rule-based systems are recognized as interpretable and historically useful, but they are repeatedly described as costly to maintain, hard to generalize, and vulnerable when taxonomies evolve or queries vary linguistically.

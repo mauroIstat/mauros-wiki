@@ -14,11 +14,15 @@ Key sources:
 
 This emerging project extends the same general logic of semantic search to the domain of professions. The relevant context is more explicitly tied to Official Statistics survey infrastructure: the FOL questionnaire provides the survey setting, while CP2021 provides the target classification structure. The likely writing value of this cluster is to connect occupation coding, profession descriptions, and hierarchical classification levels within a clearly institutional Istat frame.
 
-At this stage, the available material is mainly contextual rather than methodological. It is enough to ground the domain, the classification structure, and the institutional setting before adding experimental results in the paper workspace.
+An important part of this cluster is the presence of a legacy institutional tool, the Navigatore delle professioni. The new paper can be framed not as a generic search application, but as a methodology meant to overcome some residual limitations of a search-and-navigation system already used to support codification.
+
+Another key source is the codification note that explains how the taxonomy should be interpreted. This matters because the corpus evidence suggests that profession coding cannot rely on titles alone: it depends on the concrete tasks performed, the work context, and the distinction between profession, employment status, position in the profession, and economic activity.
 
 Key sources:
 
 - [cp2021.md](/home/mauro/projects/mauros-wiki/sources_md/professioni/cp2021.md)
+- [nota-codifica-delle-professioni.md](/home/mauro/projects/mauros-wiki/sources_md/professioni/nota-codifica-delle-professioni.md)
+- [navigatore-delle-professioni.md](/home/mauro/projects/mauros-wiki/sources_md/professioni/navigatore-delle-professioni.md)
 - [focus-classificazione-professioni-2021.md](/home/mauro/projects/mauros-wiki/sources_md/professioni/focus-classificazione-professioni-2021.md)
 - [questionario-fol-2026.md](/home/mauro/projects/mauros-wiki/sources_md/professioni/questionario-fol-2026.md)
 
