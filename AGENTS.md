@@ -168,6 +168,38 @@ When asked to work on a new paper:
 Do not assume the task is to write the whole paper from scratch unless the user explicitly asks for that.
 The default mode is collaborative, section-based, and iterative writing.
 
+## PAPER REVISION WORKFLOW (CRITICAL)
+
+When the task is to revise an existing paper after peer review, do not treat it as a paper-from-scratch workflow.
+
+### Revision inputs
+The agent should use:
+1. the existing manuscript in `raw/` or its markdown version if available
+2. reviewer comments in `sources_md/`
+3. the current `paper/outline.md`
+4. relevant conceptual material in `wiki/`
+
+### Required process
+1. Read the existing manuscript
+2. Read the reviewer comments carefully
+3. Extract the main criticisms, required changes, and open issues
+4. Update the wiki with revision-relevant context:
+   - current paper contribution
+   - structural weaknesses
+   - reviewer concerns
+   - revision strategy
+5. Propose or update the paper structure before drafting new text
+6. Only then start rewriting sections
+
+### Writing objective
+The goal is not only to improve prose, but to resolve reviewer concerns and transform the manuscript into a stronger scientific article.
+
+### Important rules
+- Do not rewrite blindly
+- Do not preserve the original structure if it is part of the problem
+- Prioritize conceptual and structural fixes before stylistic polishing
+- Explicitly connect new text to reviewer concerns when relevant
+
 ---
 
 ## What to generate
