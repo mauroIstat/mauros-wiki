@@ -4,8 +4,20 @@
 
 This is one of the clearest anchor projects in the corpus. The task is to assign official economic-activity codes to free-text descriptions. The recurring contrast is between deterministic rule systems such as CIRCE and embedding-based semantic retrieval systems using sentence transformers, centroid representations, reranking, and conformal prediction.
 
+The new JOS paper sharpens this strand in a more directly paper-oriented form. Its current empirical core is the comparison among three ways of representing the taxonomy in embedding space: a naïve single-descriptor representation, a disentangled one-to-many representation, and a centroid-based representation. It also clarifies the operational evidence base: official ATECO notes, 33,544 CIRCE-labelled real-world queries, and 12,400 synthetic queries generated from 6-digit ATECO descriptors.
+
+The strongest reusable findings from this paper are practical rather than purely technical:
+
+- top-k shortlist quality matters more than only top-1 assignment
+- medium-sized models can be attractive because they balance performance and deployability
+- short queries are structurally harder than semantically richer descriptions
+- centroid-based representations are a strong baseline for official classification retrieval
+
+For drafting work, this project is especially useful when the paper needs to connect model design with NSI use cases such as interactive coding tools, offline deployment, or transition costs when taxonomies change.
+
 Key sources:
 
+- [2026-paper-automatic-coding-ateco.md](/home/mauro/projects/mauros-wiki/sources_md/papers/2026-paper-automatic-coding-ateco.md)
 - [2026-book-chapter-semantic-search-ateco.md](/home/mauro/projects/mauros-wiki/sources_md/chapters/2026-book-chapter-semantic-search-ateco.md)
 - [2025-conference-paper-language-models.md](/home/mauro/projects/mauros-wiki/sources_md/papers/2025-conference-paper-language-models.md)
 - [2025-slides-automatic-coding.md](/home/mauro/projects/mauros-wiki/sources_md/workshop/2025-slides-automatic-coding.md)

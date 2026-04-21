@@ -19,6 +19,7 @@ Best corpus anchors for future paper drafting:
   and
   [2025-note-official-statistics-ai.md](/home/mauro/projects/mauros-wiki/sources_md/notes/2025-note-official-statistics-ai.md)
 - Semantic search and uncertainty-aware automatic coding:
+  [2026-paper-automatic-coding-ateco.md](/home/mauro/projects/mauros-wiki/sources_md/papers/2026-paper-automatic-coding-ateco.md),
   [2026-book-chapter-semantic-search-ateco.md](/home/mauro/projects/mauros-wiki/sources_md/chapters/2026-book-chapter-semantic-search-ateco.md)
   and
   [2025-conference-paper-language-models.md](/home/mauro/projects/mauros-wiki/sources_md/papers/2025-conference-paper-language-models.md)
@@ -38,7 +39,7 @@ Best corpus anchors for future paper drafting:
 Current corpus coverage:
 
 - Chapters: big data and machine learning at Istat; semantic search for ATECO coding.
-- Papers: LLMs for automated coding; patents and AI exposure; semantic confidence; PRODCOM classification; trustworthy AI; AI governance for automatic coding.
+- Papers: JOS paper on automatic ATECO coding; LLMs for automated coding; patents and AI exposure; semantic confidence; PRODCOM classification; trustworthy AI; AI governance for automatic coding.
 - Notes and workshop material: AI in official statistics, reliability, web scraping, and semantic integration.
 - Teaching material: explanatory slides on neural networks, representations, and transformers.
 - Profession-related context: FOL questionnaire, CP2021 classification structure, codification guidance, legacy navigator evidence, and background material on the 2021 classification release.
