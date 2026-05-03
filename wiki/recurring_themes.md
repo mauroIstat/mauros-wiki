@@ -10,6 +10,8 @@ Many recurring use cases start from the same difficulty: users, firms, workers, 
 
 In the profession domain, the corpus now makes this point more sharply: profession titles alone can be generic, ambiguous, or misleading, so useful coding depends on recovering the meaning of the activities actually performed rather than matching only the declared label.
 
+The newer cause-of-death and anti-violence-network papers extend the same theme beyond economic and occupational classifications. Death certificates contain short, noisy medical expressions that must be mapped to ICD-10 codes, while territorial protocols contain heterogeneous legal-administrative text that must be transformed into structured information about institutions, roles, and governance responsibilities.
+
 ## 3. Semantic search is preferred over brittle rule systems when classifications are complex
 
 The corpus often contrasts deterministic or string-matching systems with embedding-based retrieval. Rule-based systems are recognized as interpretable and historically useful, but they are repeatedly described as costly to maintain, hard to generalize, and vulnerable when taxonomies evolve or queries vary linguistically.
@@ -18,6 +20,8 @@ The corpus often contrasts deterministic or string-matching systems with embeddi
 
 Automatic coding in Official Statistics is rarely framed as a pure top-1 prediction problem. The recurring concern is defensible decisions. Conformal prediction, semantic confidence measures, calibration procedures, and validation sets appear as ways to translate AI outputs into institutionally usable evidence.
 
+The cause-of-death paper adds a production-oriented variant of this concern: model confidence can help identify cases where AI coding is reliable enough to support the workflow, while low-confidence or structurally complex cases still require expert revision.
+
 ## 5. Non-traditional data sources are valuable when methodologically disciplined
 
 Web pages, patents, satellite data, sensors, balance sheets, and user queries are treated as opportunities to expand or enrich official information. But the documents do not present these sources as self-justifying. They are useful only when extraction, coding, and quality assessment are made explicit.
@@ -25,6 +29,8 @@ Web pages, patents, satellite data, sensors, balance sheets, and user queries ar
 ## 6. AI supports experts; it does not replace statistical expertise
 
 Across research and workshop material, AI systems are cast as tools that reduce manual burden, support coding, improve access, or surface candidates. Expert validation, methodological control, and institutional oversight remain central.
+
+This is especially explicit in the health and governance-network papers. AI is positioned as a way to support dictionary-based coding in Iris, flag inconsistencies in survey responses, recover omitted actors from documents, and focus human attention on the cases where rules, roles, or textual evidence are ambiguous.
 
 ## 7. Public-sector AI is an organizational problem as well as a modelling problem
 
@@ -37,3 +43,5 @@ Primary sources for this page:
 - [2025-conference-paper-language-models.md](/home/mauro/projects/mauros-wiki/sources_md/papers/2025-conference-paper-language-models.md)
 - [2026-book-chapter-semantic-search-ateco.md](/home/mauro/projects/mauros-wiki/sources_md/chapters/2026-book-chapter-semantic-search-ateco.md)
 - [2026-slides-ai-webscraping.md](/home/mauro/projects/mauros-wiki/sources_md/workshop/2026-slides-ai-webscraping.md)
+- [2026-conference-paper-clinical-cases.md](/Users/mauro/Projects/mauros-wiki/sources_md/papers/2026-conference-paper-clinical-cases.md)
+- [2026-conference-paper-gender-violence.md](/Users/mauro/Projects/mauros-wiki/sources_md/papers/2026-conference-paper-gender-violence.md)

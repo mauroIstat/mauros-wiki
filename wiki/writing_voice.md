@@ -27,9 +27,13 @@ The teaching material is more direct, intuitive, and audience-facing. It uses rh
 
 - For introductions and discussion sections:
   [2026-conference-paper-trustworthy-ai.md](/home/mauro/projects/mauros-wiki/sources_md/papers/2026-conference-paper-trustworthy-ai.md)
+- For cautious LLM-in-Official-Statistics framing where text analysis complements survey evidence:
+  [2026-conference-paper-gender-violence.md](/Users/mauro/Projects/mauros-wiki/sources_md/papers/2026-conference-paper-gender-violence.md)
 - For methods sections on semantic retrieval and coding:
   [2026-book-chapter-semantic-search-ateco.md](/home/mauro/projects/mauros-wiki/sources_md/chapters/2026-book-chapter-semantic-search-ateco.md)
   and
   [2026-conference-paper-prodcom.md](/home/mauro/projects/mauros-wiki/sources_md/papers/2026-conference-paper-prodcom.md)
+- For production-oriented model comparison inside an existing official coding workflow:
+  [2026-conference-paper-clinical-cases.md](/Users/mauro/Projects/mauros-wiki/sources_md/papers/2026-conference-paper-clinical-cases.md)
 - For a more accessible explanatory register:
   [2026-slides-neural-networks-unveiled.md](/home/mauro/projects/mauros-wiki/sources_md/teaching/2026-slides-neural-networks-unveiled.md)

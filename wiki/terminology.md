@@ -16,6 +16,14 @@ A core methodological term. In the corpus it usually means embedding-based retri
 
 Assignment of official statistical codes to free-text descriptions. Most often discussed for ATECO, NACE, ISCO, and PRODCOM.
 
+## ICD-10 cause-of-death coding
+
+Assignment of ICD-10 codes to medical expressions reported on death certificates, followed by rule-based selection of multiple and underlying causes of death. In the corpus, AI is framed as support for the medical-text recognition phase of the Iris workflow, especially for lines that dictionary-based recognition fails to code.
+
+## Iris
+
+Cause-of-death coding software used for automated and manual coding. Its first module performs dictionary-based recognition of medical expressions; subsequent rule-based modules support the selection of multiple and underlying causes. The newer health-statistics paper treats Iris as an existing production system to be complemented, not displaced.
+
 ## CP2021
 
 The 2021 Italian classification of professions. In this workspace it matters as a hierarchical target structure for profession-related tasks and as institutional context for any paper on semantic retrieval in the professions domain.
@@ -51,6 +59,14 @@ Used mainly as a contrast class. These systems are valued for transparency and h
 ## Non-traditional data sources
 
 A recurring umbrella term covering websites, patents, sensors, satellite data, balance sheets, and other sources outside classical survey or administrative pipelines.
+
+## Document-to-structure extraction
+
+Transformation of heterogeneous textual documents into structured statistical information. In the anti-violence-network paper, this means extracting institutions, signatories, promoters, involved actors, and governance roles from formal agreements, while avoiding roles or attributes not explicitly supported by the text.
+
+## Promoting subjects / involved actors / governance actors
+
+Role distinction used in the anti-violence-network work. Promoting subjects initiate or formally promote a network; involved actors participate operationally; governance actors exercise coordination, monitoring, or strategic oversight when these responsibilities are explicitly stated in the document.
 
 ## Trustworthy AI
 

@@ -35,11 +35,15 @@ Best corpus anchors for future paper drafting:
   [2025-conference-paper-patents-occupational-exposure.md](/home/mauro/projects/mauros-wiki/sources_md/papers/2025-conference-paper-patents-occupational-exposure.md),
   and
   [2026-conference-paper-patents-semantic-confidence.md](/home/mauro/projects/mauros-wiki/sources_md/papers/2026-conference-paper-patents-semantic-confidence.md)
+- Health-statistics and survey-document integration:
+  [2026-conference-paper-clinical-cases.md](/Users/mauro/Projects/mauros-wiki/sources_md/papers/2026-conference-paper-clinical-cases.md)
+  and
+  [2026-conference-paper-gender-violence.md](/Users/mauro/Projects/mauros-wiki/sources_md/papers/2026-conference-paper-gender-violence.md)
 
 Current corpus coverage:
 
 - Chapters: big data and machine learning at Istat; semantic search for ATECO coding.
-- Papers: JOS paper on automatic ATECO coding; LLMs for automated coding; patents and AI exposure; semantic confidence; PRODCOM classification; trustworthy AI; AI governance for automatic coding.
+- Papers: JOS paper on automatic ATECO coding; LLMs for automated coding; patents and AI exposure; semantic confidence; PRODCOM classification; trustworthy AI; AI governance for automatic coding; cause-of-death coding; LLM-based extraction from anti-violence network agreements.
 - Notes and workshop material: AI in official statistics, reliability, web scraping, and semantic integration.
 - Teaching material: explanatory slides on neural networks, representations, and transformers.
 - Profession-related context: FOL questionnaire, CP2021 classification structure, codification guidance, legacy navigator evidence, and background material on the 2021 classification release.

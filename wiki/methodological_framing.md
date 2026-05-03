@@ -22,7 +22,7 @@ Methods are usually presented as modular workflows rather than as abstract algor
 - the retrieval or prediction mechanism
 - the validation or uncertainty layer
 
-This modular style is especially clear in the semantic-search and PRODCOM material.
+This modular style is especially clear in the semantic-search, PRODCOM, cause-of-death, and anti-violence-network material. The newer papers add two useful variants: model comparison inside an existing production workflow, as in Iris-based ICD-10 coding, and conservative LLM extraction where each structured output must be tied to explicit documentary evidence.
 
 ## Preferred contribution style
 
@@ -44,6 +44,8 @@ Limitations are typically framed in terms of validation, robustness, interpretab
 - Contrast traditional deterministic methods with more flexible semantic approaches without dismissing the former.
 - Treat uncertainty estimation as a requirement for adoption, not a technical afterthought.
 - Emphasize that AI extends the informational basis of Official Statistics while also creating new quality risks.
+- Present LLM-based extraction as a complement to survey data when documents contain actors, roles, or attributes that respondents may omit or aggregate.
+- When working with official coding pipelines, identify which phase AI supports rather than describing the whole workflow as generically automated.
 - Close by returning to responsible adoption, methodological control, and public trust.
 
 Primary sources for this page:
@@ -53,3 +55,5 @@ Primary sources for this page:
 - [2026-book-chapter-semantic-search-ateco.md](/home/mauro/projects/mauros-wiki/sources_md/chapters/2026-book-chapter-semantic-search-ateco.md)
 - [2025-conference-paper-language-models.md](/home/mauro/projects/mauros-wiki/sources_md/papers/2025-conference-paper-language-models.md)
 - [2026-conference-paper-prodcom.md](/home/mauro/projects/mauros-wiki/sources_md/papers/2026-conference-paper-prodcom.md)
+- [2026-conference-paper-clinical-cases.md](/Users/mauro/Projects/mauros-wiki/sources_md/papers/2026-conference-paper-clinical-cases.md)
+- [2026-conference-paper-gender-violence.md](/Users/mauro/Projects/mauros-wiki/sources_md/papers/2026-conference-paper-gender-violence.md)

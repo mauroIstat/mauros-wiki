@@ -58,6 +58,35 @@ Key sources:
 - [2026-conference-paper-trustworthy-ai.md](/home/mauro/projects/mauros-wiki/sources_md/papers/2026-conference-paper-trustworthy-ai.md)
 - [2025-note-official-statistics-ai.md](/home/mauro/projects/mauros-wiki/sources_md/notes/2025-note-official-statistics-ai.md)
 
+## Cause-of-death coding with AI
+
+This project brings the automatic-coding strand into health statistics. The task is to support the production of cause-specific mortality statistics by improving the first Iris module, where medical expressions on death certificates are recognized and assigned ICD-10 codes before rule-based selection of multiple and underlying causes of death.
+
+The paper is useful because it keeps the institutional workflow visible. It does not present AI as a replacement for Iris, but as a possible support for the dictionary-based recognition step that currently generates a large share of manual work. The empirical setting is production-oriented: around 670,000 certificates are processed each year, about 80% are fully coded automatically, and approximately 135,000 require manual coding.
+
+The most reusable methodological points are:
+
+- encoder-only multilingual models, especially XLM-RoBERTa Large with embedding retraining, perform better than the tested lightweight decoder-only LLM for this coding task
+- the hard evaluation set is composed of lines not fully coded by Iris, so performance drops relative to standard labelled test data
+- confidence probabilities can help separate more reliable automatic coding from cases that need expert review
+- complex rows requiring multiple ICD-10 codes remain a structural limitation, suggesting future work on diagnostic-entity separation
+
+Key source:
+
+- [2026-conference-paper-clinical-cases.md](/Users/mauro/Projects/mauros-wiki/sources_md/papers/2026-conference-paper-clinical-cases.md)
+
+## LLM extraction from anti-violence network agreements
+
+This project extends the corpus from classification to document-to-structure integration. It compares survey-based information on territorial anti-violence networks with information extracted from formal agreements, protocols, memoranda, and conventions attached to the survey.
+
+Its writing value lies in the explicit complementarity between traditional data collection and AI-assisted text analysis. The survey provides standardized, comparable responses from Regions and Autonomous Provinces, while the LLM-based pipeline recovers named institutions, actor typologies, signatories, promoters, involved actors, and governance roles from the source documents. The paper is careful to prioritize precision and interpretability: actors and roles are retained only when supported by explicit textual evidence, and the pipeline avoids implicit inference.
+
+The strongest reusable framing is that AI can support Official Statistics by improving data quality rather than merely automating extraction. In this case, text analysis helps identify omissions, reduce inconsistencies, compare self-reported data with documentary evidence, and bridge the gap between formal governance and observed governance.
+
+Key source:
+
+- [2026-conference-paper-gender-violence.md](/Users/mauro/Projects/mauros-wiki/sources_md/papers/2026-conference-paper-gender-violence.md)
+
 ## AI-enhanced dissemination and IstatData
 
 Another recurring application is user-facing access to statistics. The key idea is that natural-language search, semantic retrieval, and AI-assisted analysis can make official data more discoverable and usable for non-experts, provided that traceability and quality remain explicit.
